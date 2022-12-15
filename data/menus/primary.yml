@@ -3,4 +3,8 @@
   target: "/actualites/"
   kind: posts
   children: []
+- title: Équipe
+  target: "/equipe/"
+  kind: persons
+  children: []
 
