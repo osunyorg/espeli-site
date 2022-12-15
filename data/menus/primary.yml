@@ -3,4 +3,12 @@
   target: "/actualites/"
   kind: posts
   children: []
+- title: Équipe
+  target: "/equipe/"
+  kind: persons
+  children: []
+- title: DDT Box
+  target: "/ddt-box/"
+  kind: page
+  children: []
 
