@@ -1,10 +1,10 @@
 ---
 - title: Actualités
-  target: "/actualites/"
+  target: "/fr/actualites/"
   kind: posts
   children: []
 - title: DDT Box
-  target: "/ddt-box/"
+  target: "/fr/ddt-box/"
   kind: page
   children: []
 

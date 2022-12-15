@@ -1,10 +1,10 @@
 ---
 - title: Partenaires
-  target: "/partenaires/"
+  target: "/fr/partenaires/"
   kind: page
   children: []
 - title: Équipe
-  target: "/equipe/"
+  target: "/fr/equipe/"
   kind: page
   children: []
 
