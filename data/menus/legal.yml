@@ -1,2 +1,6 @@
---- []
+---
+- title: Partenaires
+  target: "/partenaires/"
+  kind: page
+  children: []
 
