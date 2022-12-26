@@ -7,4 +7,8 @@
   target: "/equipe/"
   kind: page
   children: []
+- title: Démarche
+  target: "/espeli/"
+  kind: page
+  children: []
 
