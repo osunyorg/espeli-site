@@ -8,9 +8,5 @@ items:
 - title: DDT Box
   target: "/ddt-box/"
   kind: page
-  children:
-  - title: Enregistrer un bateau
-    target: "/ddt-box/enregistrer-un-bateau/"
-    kind: page
-    children: []
+  children: []
 
