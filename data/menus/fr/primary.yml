@@ -5,4 +5,8 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+- title: DDT Box
+  target: "/ddt-box/"
+  kind: page
+  children: []
 
