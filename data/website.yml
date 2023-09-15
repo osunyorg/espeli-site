@@ -6,3 +6,4 @@ external_domains:
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
   - "plausible.io"
+social:
