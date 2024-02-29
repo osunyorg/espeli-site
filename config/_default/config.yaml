@@ -5,3 +5,5 @@ removePathAccents: true
 params: 
   summary:
     position: content
+  debug:
+     productionUrl: "https://www.espeli.fr"
