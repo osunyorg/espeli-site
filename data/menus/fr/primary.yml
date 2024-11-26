@@ -5,8 +5,10 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: DDT Box
   target: "/ddt-box/"
   kind: page
   children: []
+  file: content/fr/pages/ddt-box/_index.html
 
