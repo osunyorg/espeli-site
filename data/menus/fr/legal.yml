@@ -5,15 +5,18 @@ items:
   target: "/partenaires/"
   kind: page
   children: []
+  path: "/pages/partenaires"
   file: content/fr/pages/partenaires/_index.html
 - title: Équipe
   target: "/equipe/"
   kind: page
   children: []
+  path: "/persons"
   file: content/fr/persons/_index.html
 - title: Démarche
   target: "/espeli/"
   kind: page
   children: []
+  path: "/pages/espeli"
   file: content/fr/pages/espeli/_index.html
 
