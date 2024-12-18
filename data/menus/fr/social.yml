@@ -4,5 +4,6 @@ items:
 - title: Préfecture de Haute-Garonne
   target: https://www.haute-garonne.gouv.fr/
   kind: url
+  new_tab: true
   children: []
 
