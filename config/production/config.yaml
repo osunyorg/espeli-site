@@ -2,6 +2,11 @@
 
 baseURL: https://espeli-site.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: 1a8f515d-e0ed-4eec-a836-9824ef0fe047
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
