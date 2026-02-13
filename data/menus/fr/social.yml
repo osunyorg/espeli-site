@@ -2,8 +2,10 @@
 title: Social
 items:
 - title: Préfecture de Haute-Garonne
+  slug: prefecture-de-haute-garonne
   target: https://www.haute-garonne.gouv.fr/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 
