@@ -4,8 +4,8 @@ fr:
   title: >-
     Espeli
   contentDir: content/fr
-  languageCode: fr
-  languageName: Français
+  locale: fr
+  label: Français
   buildFuture: true
   params:
     contact_details:
@@ -13,7 +13,6 @@ fr:
   taxonomies:
     administrator: administrators
     author: authors
-    diploma: diplomas
     events_category: events_categories
     jobs_category: jobs_categories
     location: locations
